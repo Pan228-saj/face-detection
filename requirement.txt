@@ -1,2 +1,0 @@
-textblob
-pip install opencv-python
