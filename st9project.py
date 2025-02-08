@@ -28,7 +28,7 @@ run=st.button('start webcam')
 
 
 vdo=cv2.VideoCapture(0)
-faceModel=cv2.CascadeClassifier("haarcascade_frontalface_default.xml")
+faceModel=cv2.CascadeClassifier("/haarcascade_frontalface_default.xml")
 
 
 while True:
